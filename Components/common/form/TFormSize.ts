@@ -1,0 +1,1 @@
+export type TFormSize = 'small' | 'medium' | 'large';
